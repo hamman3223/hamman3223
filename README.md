@@ -1,1 +1,1 @@
-<h3 align="center">An ungraduated at [Federal State Budget-Financed Educational Institution of Higher Education The Bonch-Bruevich Saint Petersburg State University of Telecommunications](https://www.sut.ru/eng) </h3>
+<h3 align="center">An ungraduated student of cybersecurity faculty at Federal State Budget-Financed Educational Institution of Higher Education The Bonch-Bruevich Saint Petersburg State University of Telecommunication</h3>
