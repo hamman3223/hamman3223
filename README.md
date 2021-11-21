@@ -10,6 +10,6 @@
 </p>
 <p align="center">
   <a href="https://app.hackthebox.com/profile/504578">
-    <img align="left" alt="HTB profile" width="70px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/logo-htb.svg"/>
+    <img align="left" alt="HTB profile" width="170px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/logo-htb.svg"/>
   </a>
 </p>
