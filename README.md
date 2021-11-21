@@ -19,4 +19,8 @@
 ### Programming Languages
 <p align="left">
   <img alt='PHP' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/php.svg" />
+  <img alt='C++' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/cpp.svg" />
+  <img alt='Python' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/python.svg" />
+  <img alt='Masm' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/masm.svg" />
+  <img alt='Bash' width='70px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/bash.svg" />
 </p>
