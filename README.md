@@ -13,3 +13,6 @@
     <img align="left" alt="HTB profile" width="200px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/logo-htb.svg"/>
   </a>
 </p>
+
+# Programming Languages
+<img alt='PHP' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/php.svg"/>
