@@ -22,5 +22,5 @@
   <img alt='C++' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/cpp.svg" />
   <img alt='Python' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/python.svg" />
   <img alt='Masm' width='50px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/masm.svg" />
-  <img alt='Bash' width='50px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
+  <img alt='Bash' width='100px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
 </p>
