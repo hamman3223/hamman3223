@@ -8,3 +8,8 @@
     <img align="left" alt="TryHackMe profile" width="70px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/tryhackme.svg"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/504578">
+    <img align="left" alt="HTB profile" width="70px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/logo-htb.svg"/>
+  </a>
+</p>
