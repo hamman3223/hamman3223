@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/qwerty3223">
-    <img align="center" alt="TryHackMe profile" width="50px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/tryhackme.svg"/>
+    <img align="center" alt="TryHackMe profile" width="70px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/tryhackme.svg"/>
   </a>
 </p>
