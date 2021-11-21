@@ -24,3 +24,10 @@
   <img alt='Masm' width='50px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/masm.svg" />
   <img alt='Bash' width='100px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
 </p>
+<br/>
+<br/>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YWxtYXoK&show_icons=true&theme=shades-of-purple" alt="YWxtYXoK" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWxtYXoK&hide=html&theme=shades-of-purple&layout=compact">
+</p>
