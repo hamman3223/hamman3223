@@ -19,7 +19,7 @@
 # :books: My book library
 <p>
    <a href="https://github.com/YWxtYXoK/MyBookLibrary">
-     <h1 align="center">Link</h1>
+     <img alt="MyBookLibrary" src="./resources/MyBookLibrary.png" align="center"></h1>
    </a>
 </p>
 <br/>
