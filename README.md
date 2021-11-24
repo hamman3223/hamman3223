@@ -18,8 +18,8 @@
 
 # :books: My book library
 <p>
-   <a align="center" href="https://github.com/YWxtYXoK/MyBookLibrary">
-     <h3>Link</h3>
+   <a href="https://github.com/YWxtYXoK/MyBookLibrary">
+     <h1 align="center">Link</h1>
     </a>
 </p>
 <br/>
