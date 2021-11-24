@@ -8,9 +8,9 @@
   <a href="https://tryhackme.com/p/qwerty3223">
   <img align="left" alt="TryHackMe profile" width="70px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/tryhackme.svg" />
   </a>
-  <a href="https://app.hackthebox.com/profile/504578">
+<!--   <a href="https://app.hackthebox.com/profile/504578">
   <img align="left" alt="HTB profile" width="200px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/logo-htb.svg" />
-  </a>
+  </a> -->
 </p>
 <br />
 <br />
