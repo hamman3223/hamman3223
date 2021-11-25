@@ -24,7 +24,7 @@
 </p>
 <br/>
 
-### Programming Languages
+# :keyboard: Programming Languages
 <p align="left">
   <img alt='PHP' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/php.svg" />
   <img alt='C++' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/cpp.svg" />
