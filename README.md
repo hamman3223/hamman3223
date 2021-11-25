@@ -1,3 +1,5 @@
+<img alighn="center" alt="White Hat" src="./resources/white_hat.png ">
+
 <h3 align="left">An ungraduated CyberSec student at Federal State Budget-Financed Educational Institution of Higher Education The Bonch-Bruevich Saint Petersburg State University of Telecommunication</h3>
 <a align="center" target="_blank" href="https://www.sut.ru/eng" title="SpbSut"><img width="200px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/spbsut.svg"/></a>
 <br/>
