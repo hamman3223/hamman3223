@@ -1,13 +1,9 @@
-<p align="Center">
-          <h3>
-                    .~~~~`\~~\
-                   ;       ~~ \
-                   |           ;
-               ,--------,______|---.
-              /          \-----`    \    Tom Youderian
-              `.__________`-_______-'
-          </h3>
-</p>
+                                                                      .~~~~`\~~\
+                                                                     ;       ~~ \
+                                                                     |           ;
+                                                                 ,--------,______|---.
+                                                                /          \-----`    \    Tom Youderian
+                                                                `.__________`-_______-'
 
 <!-- <p align="center">
   <img alighn="center" alt="White Hat" width="200" high="200" src="./resources/white_hat.png ">
