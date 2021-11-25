@@ -21,7 +21,7 @@
 
 # :books: My book library
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/YWxtYXoK/MyBookLibrary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&theme=chartreuse-dark)](https://github.com/YWxtYXoK/MyBookLibrary)
 
 
 # :keyboard: Programming Languages
