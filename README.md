@@ -20,12 +20,9 @@
 <br/>
 
 # :books: My book library
-<p>
-   <a href="https://github.com/YWxtYXoK/MyBookLibrary">
-     <img alt="MyBookLibrary" src="./resources/MyBookLibrary.png" align="center"></h1>
-   </a>
-</p>
-<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary)](https://github.com/YWxtYXoK/MyBookLibrary)
+
 
 # :keyboard: Programming Languages
 <p align="left">
