@@ -23,7 +23,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&theme=chartreuse-dark)](https://github.com/YWxtYXoK/MyBookLibrary)
 
-# :badges: My earned badges
+# :card_index: My earned badges
+<img alt="Cisco CyberOps" width='70px' src="https://www.credly.com/earner/earned/badge/a6220b1a-eb31-418a-9dfc-ce39d10db7aa">
 
 
 # :keyboard: Programming Languages
