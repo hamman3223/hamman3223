@@ -23,6 +23,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&theme=chartreuse-dark)](https://github.com/YWxtYXoK/MyBookLibrary)
 
+# :badges: My earned badges
+
 
 # :keyboard: Programming Languages
 <p align="left">
