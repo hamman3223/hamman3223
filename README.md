@@ -33,7 +33,7 @@
   <img alt='PHP' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/php.svg" />
   <img alt='C++' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/cpp.svg" />
   <img alt='Python' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/python.svg" />
-  <img alt='Masm' width='50px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/masm.svg" />
+  <img alt='ASM' width='50px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/8cb18c72082d13eb581cf6d452e8e266.png" />
   <img alt='Bash' width='100px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
 </p>
 <br/>
