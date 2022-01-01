@@ -11,6 +11,9 @@
   <a href="https://tryhackme.com/p/qwerty3223">
   <img align="left" alt="TryHackMe profile" width="70px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/tryhackme.svg" />
   </a>
+  <a href="https://cyberdefenders.org/profile/gn3223">
+    <img align="left" alt="CyberDefense profile" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/CyberDefense.png">
+  </a>
 <!--   <a href="https://app.hackthebox.com/profile/504578">
   <img align="left" alt="HTB profile" width="200px" src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/logo-htb.svg" />
   </a> -->
