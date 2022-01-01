@@ -25,8 +25,8 @@
 
 # :card_index: My earned badges
 <a href="https://www.credly.com/earner/earned/badge/a6220b1a-eb31-418a-9dfc-ce39d10db7aa">
-<img alt="Cisco CyberOps" width='70px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/CyberOpsAssoc.png">
-<\a>
+  <img alt="Cisco CyberOps" width='70px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/CyberOpsAssoc.png">
+</a>
 
 # :keyboard: Programming Languages
 <p align="left">
