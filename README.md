@@ -22,6 +22,8 @@
 <br />
 <br/>
 
+# :newspaper: White Papers
+
 # :books: My book library
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&theme=chartreuse-dark)](https://github.com/YWxtYXoK/MyBookLibrary)
