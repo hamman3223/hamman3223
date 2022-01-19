@@ -24,9 +24,11 @@
 
 # :newspaper: White Papers
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=white_papers&theme=chartreuse-dark)](https://github.com/YWxtYXoK/MyBookLibrary)
+
 # :books: My book library
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&theme=chartreuse-dark)](https://github.com/YWxtYXoK/MyBookLibrary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YWxtYXoK&repo=MyBookLibrary&theme=chartreuse-dark)](https://github.com/YWxtYXoK/white_papers)
 
 # :card_index: My earned badges
 <a href="https://www.credly.com/earner/earned/badge/a6220b1a-eb31-418a-9dfc-ce39d10db7aa">
