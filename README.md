@@ -35,6 +35,9 @@
   <img alt="Cisco CyberOps" width='70px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/CyberOpsAssoc.png">
 </a>
 
+# :medal_sports: Events
+
+
 # :keyboard: Programming Languages
 <p align="left">
   <img alt='PHP' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/php.svg" />
