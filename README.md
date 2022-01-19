@@ -38,6 +38,7 @@
 # :medal_sports: Events
 
 :3rd_place_medal: Hackaton: Container Security 
+Cyber Security Olympiad among Universities
 
 
 # :keyboard: Programming Languages
