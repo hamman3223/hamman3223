@@ -9,7 +9,7 @@
 # :chess_pawn: CyberSec grounds
 <p align="center">
   <a href="https://tryhackme.com/p/qwerty3223">
-  <img align="left" alt="TryHackMe profile" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/favicon.png" />
+  <img align="left" alt="TryHackMe profile" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/tryhackme.png" />
   </a>
   <a href="https://cyberdefenders.org/profile/hamman3223">
     <img align="left" alt="CyberDefense profile" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/CyberDefense.png">
