@@ -61,7 +61,7 @@
   <img alt="Spring Open Cybersecurity" width="120px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/spring_open.svg">
 </a>
 <a href="https://www.sans.org/white-papers/">
-  <img alt="SANS Information Security White Papers" width="40px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/sans.png">
+  <img alt="SANS Information Security White Papers" align="bottom" width="40px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/sans.png">
 </a>
 <br/>
 <br/>
