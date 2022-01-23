@@ -49,6 +49,11 @@
   <img alt='ASM' width='50px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/729ff0f96a34c2a799d6c5c75ebb06ed05c49588/resources/Assembler.png" />
   <img alt='Bash' width='100px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
 </p>
+
+# :information_source: Information sources
+<a href="https://medium.com/analytics-vidhya">
+  <img alt="Analytics Vidhya" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/analytics_vidhya.png">
+</a>
 <br/>
 <br/>
 
