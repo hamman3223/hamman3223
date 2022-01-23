@@ -54,6 +54,9 @@
 <a href="https://medium.com/analytics-vidhya">
   <img alt="Analytics Vidhya" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/analytics_vidhya.png">
 </a>
+<a href="https://towardsdatascience.com/">
+  <img alt="Towards Data Science" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/towards_datascience.png">
+</a>
 <br/>
 <br/>
 
