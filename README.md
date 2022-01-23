@@ -57,6 +57,9 @@
 <a href="https://towardsdatascience.com/">
   <img alt="Towards Data Science" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/towards_datascience.png">
 </a>
+<a href="https://cybersecurity.springeropen.com/">
+  <img alt="Spring Open Cybersecurity" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/spring_open.svg">
+</a>
 <br/>
 <br/>
 
