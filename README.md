@@ -40,7 +40,9 @@
 :3rd_place_medal: Hackaton: Container Security
 
 # :scroll: Certificates
-
+<a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH124.png">
+  <h3>RH124</h3>
+</a>
 
 # :keyboard: Programming Languages
 <p align="left">
@@ -53,7 +55,7 @@
 
 # :information_source: Information sources
 <a href="https://medium.com/analytics-vidhya">
-  <img alt="Analytics Vidhya" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/analytics_vidhya.png">
+  <img alt="Analytics Vidhya" width="70pxRH124" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/analytics_vidhya.png">
 </a>
 <a href="https://towardsdatascience.com/">
   <img alt="Towards Data Science" width="70px" src="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/towards_datascience.png">
