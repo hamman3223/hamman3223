@@ -41,7 +41,10 @@
 
 # :scroll: Certificates
 <a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH124.png">
-  <b>RH124</b>
+  <b>RedHat System Administration I (RH124)</b>
+</a>
+<a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH134.png">
+  <b>RedHat System Administration II (RH134)</b>
 </a>
 
 # :keyboard: Programming Languages
