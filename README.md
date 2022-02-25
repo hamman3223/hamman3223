@@ -41,7 +41,7 @@
 
 # :scroll: Certificates
 <a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH124.png">
-  <h3>RH124</h3>
+  <b>RH124</b>
 </a>
 
 # :keyboard: Programming Languages
