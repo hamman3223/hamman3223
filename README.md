@@ -38,6 +38,7 @@
 # :medal_sports: Events
 
 :3rd_place_medal: Hackaton: Container Security
+<br />
 :2nd_place_medal: National Cyberpolygon. CyberSUT 2022
 
 # :scroll: Certificates
