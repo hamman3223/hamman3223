@@ -26,6 +26,9 @@
 <a href='https://institute.sektor7.net/rto-lpe-windows'>
   [SEKTOR7] RED TEAM Operator: Privilege Escalation in Windows Course
 </a>
+<a href='https://bootcamps.pentesteracademy.com/course/container-security-on-demand'>
+  [PentestAcademy] Container Security Bootcamp
+</a>
 
 
 # :books: My book library
