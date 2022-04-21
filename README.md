@@ -22,6 +22,11 @@
 <br />
 <br/>
 
+# Courses
+<a href='https://institute.sektor7.net/rto-lpe-windows'>
+  [SEKTOR7] RED TEAM Operator: Privilege Escalation in Windows Course
+</a>
+
 
 # :books: My book library
 
