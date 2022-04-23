@@ -68,7 +68,7 @@
   <img alt='Python' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/python.svg" />
   <img alt='ASM' width='50px' src="https://github.com/YWxtYXoK/YWxtYXoK/blob/729ff0f96a34c2a799d6c5c75ebb06ed05c49588/resources/Assembler.png" />
   <img alt='Bash' width='100px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
-  <img alt='Powershell' width='100px' src='https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/PowerShell_Core_6.0_icon.png' />
+  <img alt='Powershell' width='50px' src='https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/PowerShell_Core_6.0_icon.png' />
 </p>
 
 # :information_source: Information sources
