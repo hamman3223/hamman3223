@@ -61,14 +61,8 @@
   <b>RedHat System Administration II (RH134)</b>
 </a>
 
-# :keyboard: Programming Languages
-<p align="left">
-  <img alt='PHP' width='70px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/php.svg" />
-  <img alt='C++' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/cpp.svg" />
-  <img alt='Python' width='40px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/python.svg" />
-  <img alt='Bash' width='100px' src="https://raw.githubusercontent.com/YWxtYXoK/YWxtYXoK/main/resources/bash_logo.svg" />
-  <img alt='Powershell' width='50px' src='https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/PowerShell_Core_6.0_icon.png' />
-</p>
+# :keyboard: Knowledges
+[!Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) [!PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) [!C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) [!Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) [!Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 # :information_source: Information sources
 <a href="https://medium.com/analytics-vidhya">
