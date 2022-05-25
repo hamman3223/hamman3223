@@ -47,7 +47,7 @@
 </a>
 
 # :medal_sports: Events
-    TheStandOff 2022. May 18-19
+   TheStandOff 2022. May 18-19
 <br />
 :3rd_place_medal: Hackaton: Container Security
 <br />
