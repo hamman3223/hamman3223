@@ -47,7 +47,8 @@
 </a>
 
 # :medal_sports: Events
-
+TheStandOff 2022. May 18-19
+<br />
 :3rd_place_medal: Hackaton: Container Security
 <br />
 :2nd_place_medal: National Cyberpolygon. CyberSUT 2022
