@@ -54,12 +54,12 @@
 :2nd_place_medal: National Cyberpolygon. CyberSUT 2022
 
 # :scroll: Certificates
-<a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/PT_NAD.png">
-  <b>RedHat System Administration I (RH124)</b>
+<a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/PT_NAD.jpg">
+  <b>Positive Technologies PT NAD: Design, functionality and techniques for investigating attacks</b>
 </a>
 </br>
 <a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH124.png">
-  <b>Positive Technologies PT NAD: Design, functionality and techniques for investigating attacks</b>
+  <b>RedHat System Administration I (RH124)</b>
 </a>
 </br>
 <a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH134.png">
