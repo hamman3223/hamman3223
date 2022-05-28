@@ -55,7 +55,7 @@
 
 # :scroll: Certificates
 <a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/PT_NAD.jpg">
-  <b>Positive Technologies PT NAD: Design, functionality and techniques for investigating attacks</b>
+  <b>PT NAD: Design, functionality and techniques for investigating attacks</b>
 </a>
 </br>
 <a href="https://github.com/YWxtYXoK/YWxtYXoK/blob/main/resources/RH124.png">
