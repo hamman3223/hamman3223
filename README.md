@@ -1,7 +1,7 @@
 <p align="center">
   <img alighn="center" alt="White Hat" width="200" high="200" src="https://github.com/hamman3223/hamman3223/blob/main/resources/bluet_hat.png">
 </p>
-<h3 align="left">An ungraduated CyberSec student at Federal State Budget-Financed Educational Institution of Higher Education The Bonch-Bruevich Saint Petersburg State University of Telecommunication</h3>
+<h3 align="left">Graduated CyberSec student from Federal State Budget-Financed Educational Institution of Higher Education The Bonch-Bruevich Saint Petersburg State University of Telecommunication</h3>
 <a align="center" target="_blank" href="https://www.sut.ru/eng" title="SpbSut"><img width="200px" src="./resources/spbsutlogo.svg"/></a>
 <br/>
 <br/>
