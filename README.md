@@ -47,7 +47,10 @@
 <br />
 :3rd_place_medal: Hackaton: Container Security
 <br />
-:2nd_place_medal: National Cyberpolygon. CyberSUT 2022
+<a href="https://www.sut.ru/bonchnews/education/08-04-2022-kiberspbgut-2022:-itogi-studencheskoy-olimpiadi"> 
+  :2nd_place_medal: National Cyberpolygon. CyberSUT 2022
+</a>
+
 
 # :scroll: Certificates
 <a href="https://github.com/hamman3223/hamman3223/blob/main/resources/PT_NAD.jpg">
