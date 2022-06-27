@@ -41,11 +41,6 @@
 # :page_with_curl: White Papers
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamman3223&repo=white_papers&theme=chartreuse-dark)](https://github.com/hamman3223/white_papers)
 
-# :card_index: My earned badges
-<a href="https://www.credly.com/earner/earned/badge/a6220b1a-eb31-418a-9dfc-ce39d10db7aa">
-  <img alt="Cisco CyberOps" width='70px' src="https://github.com/hamman3223/hamman3223/blob/main/resources/CyberOpsAssoc.png">
-</a>
-
 # :medal_sports: Events
    TheStandOff 2022. May 18-19
 <br />
