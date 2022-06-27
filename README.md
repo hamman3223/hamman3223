@@ -42,7 +42,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamman3223&repo=white_papers&theme=chartreuse-dark)](https://github.com/hamman3223/white_papers)
 
 # :medal_sports: Events
-   TheStandOff 2022. May 18-19
+
+<a href="https://standoff365.com/#standoff">TheStandOff 2022. May 18-19</a>
 <br />
 :3rd_place_medal: Hackaton: Container Security
 <br />
