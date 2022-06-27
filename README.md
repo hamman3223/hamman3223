@@ -97,23 +97,6 @@
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![SQLlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# :information_source: Information sources
-<a href="https://medium.com/analytics-vidhya">
-  <img alt="Analytics Vidhya" width="70pxRH124" src="https://github.com/hamman3223/hamman3223/blob/main/resources/analytics_vidhya.png">
-</a>
-<a href="https://towardsdatascience.com/">
-  <img alt="Towards Data Science" width="70px" src="https://github.com/hamman3223/hamman3223/blob/main/resources/towards_datascience.png">
-</a>
-<a href="https://cybersecurity.springeropen.com/">
-  <img alt="Spring Open Cybersecurity" width="120px" src="https://github.com/hamman3223/hamman3223/blob/main/resources/spring_open.svg">
-</a>
-<br/>
-<a href="https://www.sans.org/white-papers/">
-  <img alt="SANS Information Security White Papers" align="bottom" width="40px" src="https://github.com/hamman3223/hamman3223/blob/main/resources/sans.png">
-</a>
-<br/>
-<br/>
-
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamman3223&show_icons=true&theme=chartreuse-dark" alt="YWxtYXoK" />
   <br/>
