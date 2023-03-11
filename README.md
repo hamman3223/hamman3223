@@ -84,11 +84,11 @@
 <h1><br>My environment</h1>
 <p>
   <img src="https://img.shields.io/badge/Xonsh-7F5AB6?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+  <img src="https://img.shields.io/badge/mac%20os-FFFFFF?style=for-the-badge&logo=apple&logoColor=gray">
   <img src="https://img.shields.io/badge/JetBrains_IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 <h1><br>My book library</h1>
