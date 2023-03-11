@@ -70,7 +70,8 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?&style=for-the-badge&logo=ethereum&logoColor=cyan">
   <img src="https://img.shields.io/badge/IPFS-65C2CB?&style=for-the-badge&logo=ipfs&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Keycloak-808080?style=for-the-badge&logo=keycloak&logoColor=white">
 </p>
 
 <h1><br>Tools</h1>
