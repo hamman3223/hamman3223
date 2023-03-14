@@ -108,6 +108,13 @@
 <h1><br>My book library</h1>
 <p>
   <a align="center" href="https://github.com/hamman3223/MyBookLibrary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamman3223&repo=MyBookLibrary&theme=chartreuse-dark" alt="white_papers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamman3223&repo=MyBookLibrary&theme=chartreuse-dark" alt="book_library">
+  </a>
+</p>
+
+<h1><br>Resources</h1>
+<p>
+  <a align="center" href="https://github.com/hamman3223/resources">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamman3223&repo=resources&theme=chartreuse-dark" alt="resources">
   </a>
 </p>
