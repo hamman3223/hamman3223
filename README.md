@@ -1,9 +1,3 @@
-<p align="center">
-  <img alighn="center" alt="White Hat" width="200" high="200" src="./resources/bluet_hat.png">
-</p>
-
-<br />
-
 <h3 align="left">Graduated CyberSec specialist from Federal State Budget-Financed Educational Institution of Higher Education The Bonch-Bruevich Saint Petersburg State University of Telecommunication</h3>
 <a align="center" target="_blank" href="https://www.sut.ru/eng" title="SpbSut"><img width="200px" src="./resources/spbsutlogo.svg"/></a>
 <h1><br>CyberSec grounds</h1>
