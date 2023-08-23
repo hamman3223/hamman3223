@@ -8,7 +8,7 @@
 </p>
 
 # Security Audits 
-* [DAO Paykien Geo](https://rectangular-battery-93d.notion.site/Security-Audit-04d1fed978224d39bf5b4b65e34c44d3?pvs=4)
+* [DAO Paykien Geo](./resources/DAOPaykikenGeo.pdf)
 
 <h1><br>Courses</h1>
 <p align="left">
