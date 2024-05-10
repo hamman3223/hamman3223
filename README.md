@@ -9,15 +9,6 @@
 - [ТБ Форум. Построение SDL пайплайна](https://www.tbforum.ru/2023/program/sdl)
 - Hackaton: Container Security
 
-# Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
 # Library
 
 <p>
