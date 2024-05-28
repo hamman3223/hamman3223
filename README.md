@@ -3,11 +3,10 @@
 - [DAO Paykien Geo](./resources/DAOPaykikenGeo.pdf)
 
 # Events
-
-- [TheStandOff 2022. May 18-19](https://standoff365.com/#standoff)
+- StandOff24. ITMO Red Team
+- [TheStandOff 2022. May 18-19 (Blue Team)](https://standoff365.com/#standoff)
 - [Natianal Cyberpolygon. CyberSUT 2022](https://www.sut.ru/bonchnews/education/08-04-2022-kiberspbgut-2022:-itogi-studencheskoy-olimpiadi)
 - [ТБ Форум. Построение SDL пайплайна](https://www.tbforum.ru/2023/program/sdl)
-- StandOff24. ITMO Red Team
 - Hackaton: Container Security
 
 # Library
