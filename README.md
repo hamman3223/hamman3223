@@ -9,6 +9,9 @@
 - [ТБ Форум. Построение SDL пайплайна](https://www.tbforum.ru/2023/program/sdl)
 - Hackaton: Container Security
 
+# Talks
+- [DevSecOps tools for CTF](https://youtu.be/8XTCN6tfZPg?si=2LlpRfCM-wA0hC9-&t=2594)
+
 # Library
 
 <p>
