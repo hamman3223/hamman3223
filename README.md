@@ -8,6 +8,7 @@
 - [Natianal Cyberpolygon. CyberSUT 2022](https://www.sut.ru/bonchnews/education/08-04-2022-kiberspbgut-2022:-itogi-studencheskoy-olimpiadi)
 - [ТБ Форум. Построение SDL пайплайна](https://www.tbforum.ru/2023/program/sdl)
 - Hackaton: Container Security
+- Russian CTF Cup
 
 # Talks
 - [DevSecOps tools for CTF](https://youtu.be/8XTCN6tfZPg?si=2LlpRfCM-wA0hC9-&t=2594)
