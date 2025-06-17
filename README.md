@@ -10,9 +10,6 @@
 - Hackaton: Container Security
 - Russian CTF Cup
 
-# Talks
-- [DevSecOps tools for CTF](https://youtu.be/8XTCN6tfZPg?si=2LlpRfCM-wA0hC9-&t=2594)
-
 # Library
 
 <p>
